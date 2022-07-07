@@ -176,6 +176,7 @@ h3 {
   .price-col {
     padding: 5% 3%;
     margin: auto;
+    size-adjust: auto;
     text-size-adjust: auto;
   }
 
